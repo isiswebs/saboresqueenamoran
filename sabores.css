@@ -33,6 +33,6 @@
 
 .producto { border: 1px solid #ccc; padding: 1.5rem; text-align: center; border-radius: 8px; background: #fff; }
 
-.btn-agregar { background: var(--primary); color: white; border: none; padding: 0.8rem 1.5rem; cursor: pointer; border-radius: 5px; margin-top: 10px; }
+.btn-pedir { background: var(--primary); color: white; border: none; padding: 0.8rem 1.5rem; cursor: pointer; border-radius: 5px; margin-top: 10px; }
 
 .precio { display: block; font-weight: bold; margin: 10px 0; font-size: 1.2rem; }
